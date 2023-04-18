@@ -1,0 +1,41 @@
+
+td, th {
+    padding: 10px;
+}
+
+code, kbd, pre, samp {
+ font-family: 'Fira Code', monospace;
+ font-size: 1em;
+}
+
+div.staff-profiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    margin: auto;
+    column-gap: min(10%, 40px);
+}
+
+div.profile {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+div.profile > img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+blockquote {
+    padding: 1em 3.5em;
+}
+
+blockquote > p {
+    margin-bottom: 0;
+}
+
+.staff-name {
+    font-size: 1em;
+    font-weight: bold;
+}

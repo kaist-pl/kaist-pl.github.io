@@ -1,0 +1,32 @@
+- name: "CS220: Programming Principles"
+  website:
+
+- name: "CS230: System Programming"
+  website:
+
+- name: "CS320: Programming Languages"
+  website: https://plrg.kaist.ac.kr/lectures/cs320-spring-2023
+
+- name: "CS348: Introduction to Information Security"
+  website: https://github.com/prosyslab-classroom/cs348-information-security
+
+- name: "CS402: Introduction to Logic for Computer Science"
+  website: https://github.com/hongseok-yang/logic23
+
+- name: "CS420: Compiler Design"
+  website: https://github.com/kaist-cp/cs420
+
+- name: "CS423: Probabilistic Programming"
+  website: https://github.com/hongseok-yang/probprog20
+
+- name: "CS431: Concurrent Programming"
+  website: https://github.com/kaist-cp/cs431
+
+- name: "CS492: Program Reasoning"
+  website: https://github.com/prosyslab-classroom/cs492-program-reasoning
+
+- name: "CS520: Theory of Programming Languages"
+  website: https://github.com/hongseok-yang/graduatePL21
+
+- name: "CS524: Program Analysis"
+  website: https://github.com/prosyslab-classroom/cs524-program-analysis

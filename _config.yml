@@ -1,0 +1,6 @@
+title: "KAIST PL"
+url: https://kaist-pl.github.io/
+navigation:
+  - title: Event
+    url: /event
+theme: jekyll-theme-cayman

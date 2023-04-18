@@ -1,0 +1,31 @@
+- name: Sukyoung Ryu
+  short: sukyoung
+  website: https://plrg.kaist.ac.kr/ryu
+  email: sryu.cs@kaist.ac.kr
+  lab: PLRG
+  lab-website: https://plrg.kaist.ac.kr/home
+  lab-mailing-list:
+
+- name: Hongseok Yang
+  short: hongseok
+  website: https://sites.google.com/view/hongseokyang/home
+  email: hongseok00@gmail.com
+  lab: Lab for Foundations of PL & ML
+  lab-website: https://sites.google.com/view/hongseokyang/home
+  lab-mailing-list:
+
+- name: Jeehoon Kang
+  short: jeehoon
+  website: https://cp.kaist.ac.kr/jeehoon.kang/
+  email: jeehoon.kang@cp.kaist.ac.kr
+  lab: Concurrency & Parallelism Lab
+  lab-website: https://cp.kaist.ac.kr
+  lab-mailing-list:
+
+- name: Kihong Heo
+  short: kihong
+  website: https://kihongheo.kaist.ac.kr
+  email: kihong.heo@prosys.kaist.ac.kr
+  lab: Programming Systems Lab
+  lab-website: https://prosys.kaist.ac.kr
+  lab-mailing-list: all@prosys.kaist.ac.kr
