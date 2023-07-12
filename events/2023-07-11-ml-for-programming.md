@@ -5,6 +5,8 @@ title: ML for Programming
 
 # 프로그래밍을 위한 기계학습 @ KAIST
 
+![Group image](../images/ml4pl_23summer.jpg)
+
 ### 개요
 
 - 주제: 프로그래밍을 위한 기계학습
