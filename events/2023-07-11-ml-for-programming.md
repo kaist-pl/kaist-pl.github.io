@@ -5,7 +5,7 @@ title: ML for Programming
 
 # 프로그래밍을 위한 기계학습 @ KAIST
 
-<img src=../images/ml4pl_23summer.jpg alt="group image" width=90%>
+<div> <img src=../images/ml4pl_23summer.jpg alt="group image" width=90%> </div>
 
 ### 개요
 
