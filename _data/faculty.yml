@@ -16,10 +16,10 @@
 
 - name: Jeehoon Kang
   short: jeehoon
-  website: https://cp.kaist.ac.kr/jeehoon.kang/
+  website: https://kaist-cp.github.io/jeehoon.kang/
   email: jeehoon.kang@kaist.ac.kr
   lab: Concurrency & Parallelism Lab
-  lab-website: https://cp.kaist.ac.kr
+  lab-website: https://kaist-cp.github.io/
   lab-mailing-list: lab@cp.kaist.ac.kr
 
 - name: Kihong Heo
